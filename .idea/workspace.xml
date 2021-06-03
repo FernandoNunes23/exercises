@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="654abbf6-aee1-42c8-9d07-da5937c2bbd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../simple_user_api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../simple_user_api/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple_user_api/src/Application/Actions/User/UserPutAction.php" beforeDir="false" afterPath="$PROJECT_DIR$/../simple_user_api/src/Application/Actions/User/UserPutAction.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple_user_api/tests/Application/Actions/Account/AccountEventActionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple_user_api/tests/Application/Actions/Account/AccountGetBalanceActionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple_user_api/tests/Application/Actions/ActionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple_user_api/tests/Application/Actions/Reset/ResetActionTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple_user_api/tests/Domain/Entity/AccountTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple_user_api/tests/Domain/Entity/Factory/AccountEntityFactoryTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple_user_api/var/data/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../simple_user_api/var/data/1.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../simple_user_api" />
+  </component>
+  <component name="ProjectId" id="1tOrOF4RZ3o469MxYCTId8foBhd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../simple_user_api/src/Application/Actions/User" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="654abbf6-aee1-42c8-9d07-da5937c2bbd8" name="Default Changelist" comment="" />
+      <created>1622650944381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622650944381</updated>
+      <workItem from="1622650945822" duration="57162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

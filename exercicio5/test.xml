@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<employees>
+    <employee id="1">
+        <name>John</name>
+        <email>john@example.com</email>
+        <address>
+            <street>3201  Glendale Avenue</street>
+            <city>Los Angeles</city>
+            <state>CA</state>
+        </address>
+    </employee>
+    <employee id="2">
+        <name>Mike</name>
+        <email>mike@example.com</email>
+        <address>
+            <street>781  Stroop Hill Road</street>
+            <city>Duluth</city>
+            <state>GA</state>
+        </address>
+    </employee>
+</employees>
